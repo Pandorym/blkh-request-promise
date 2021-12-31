@@ -39,7 +39,7 @@
     "tough-cookie": "^2.3.3"
   },
   "peerDependencies": {
-    "request": "^2.34"
+    "request": "github:Pandorym/request"
   },
   "devDependencies": {
     "body-parser": "~1.15.2",
