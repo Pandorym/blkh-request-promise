@@ -39,7 +39,7 @@
     "tough-cookie": "^2.3.3"
   },
   "peerDependencies": {
-    "request": "github:Pandorym/request"
+    "blkh-request": "github:Pandorym/blkh-request"
   },
   "devDependencies": {
     "body-parser": "~1.15.2",
