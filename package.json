@@ -1,5 +1,5 @@
 {
-  "name": "request-promise",
+  "name": "blkh-request-promise",
   "version": "4.2.6",
   "description": "The simplified HTTP request client 'request' with Promise support. Powered by Bluebird.",
   "keywords": [
